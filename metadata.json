@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GlucoCheck Photo",
+  "description": "An application that analyzes food photos to provide nutritional data and personalized health alerts for conditions like diabetes, hypertension, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
